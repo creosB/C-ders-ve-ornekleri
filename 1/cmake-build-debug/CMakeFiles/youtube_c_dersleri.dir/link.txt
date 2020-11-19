@@ -1,0 +1,3 @@
+"D:\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\youtube_c_dersleri.dir/objects.a
+D:\ming\mingw32\bin\ar.exe cr CMakeFiles\youtube_c_dersleri.dir/objects.a @CMakeFiles\youtube_c_dersleri.dir\objects1.rsp
+D:\ming\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\youtube_c_dersleri.dir/objects.a -Wl,--no-whole-archive  -o youtube_c_dersleri.exe -Wl,--out-implib,libyoutube_c_dersleri.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\youtube_c_dersleri.dir\linklibs.rsp

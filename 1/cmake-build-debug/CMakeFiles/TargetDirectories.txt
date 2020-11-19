@@ -1,0 +1,3 @@
+C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/CMakeFiles/youtube_c_dersleri.dir
+C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

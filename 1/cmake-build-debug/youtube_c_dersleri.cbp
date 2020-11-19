@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="youtube_c_dersleri"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="youtube_c_dersleri">
+				<Option output="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/youtube_c_dersleri.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/ming/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/ming/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/ming/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 youtube_c_dersleri"/>
+					<CompileFile command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="youtube_c_dersleri/fast">
+				<Option output="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/youtube_c_dersleri.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/ming/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/ming/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/ming/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 youtube_c_dersleri/fast"/>
+					<CompileFile command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ming/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/main.c">
+			<Option target="youtube_c_dersleri"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Documents/proje/youtube_c_dersleri/1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
