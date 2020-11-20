@@ -16,4 +16,4 @@ Ders anlatımı, notlar, örnek uygulamalar tamamen bana ait.</p>
 <li class="has-line-data" data-line-start="12" data-line-end="13">Matematiksel fonksiyonlar</li>
 </ul>
 <h2 class="code-line" data-line-start=18 data-line-end=20 ><a id="License_18"></a>License</h2>
-<p class="has-line-data" data-line-start="21" data-line-end="22">MIT</p>
+<p class="has-line-data" data-line-start="21" data-line-end="22">Creative Commons Zero v1.0 Universal</p>
