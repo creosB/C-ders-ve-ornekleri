@@ -1,0 +1,3 @@
+"D:\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ornek.dir/objects.a
+D:\ming\mingw32\bin\ar.exe cr CMakeFiles\ornek.dir/objects.a @CMakeFiles\ornek.dir\objects1.rsp
+D:\ming\mingw32\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\ornek.dir/objects.a -Wl,--no-whole-archive  -o ornek.exe -Wl,--out-implib,libornek.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ornek.dir\linklibs.rsp

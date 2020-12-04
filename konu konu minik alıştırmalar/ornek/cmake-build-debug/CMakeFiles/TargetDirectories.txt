@@ -1,0 +1,3 @@
+C:/Users/Administrator/Documents/proje/uniders/ornek/cmake-build-debug/CMakeFiles/ornek.dir
+C:/Users/Administrator/Documents/proje/uniders/ornek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Documents/proje/uniders/ornek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
