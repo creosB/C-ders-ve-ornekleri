@@ -4,7 +4,8 @@ int main() {
     int pizzaTip,
     hamurTip,
     kenarTip,
-    ekstraMalzeme;
+    ekstraMalzeme,
+    ekstraUrun;
     float hesap = 0.0;
 
     printf("***** Pizza Siparis Uygulamasi *****\n");
@@ -44,6 +45,31 @@ int main() {
             case 5:
                 hesap = hesap;
                 i = i+4;
+                break;
+        }
+    }
+
+    //Ekstra Urun
+    for (int a = 1; a <=5; ++a) {
+        printf("Ekstra urun istiyoraniz seciniz.\n1)Kola 330 ml  5.99TL\n2)Ayran 200 ml 3 TL\n3)Et Donerli Durumos 17.99 TL\n4)Citir Finger 8.99 TL\n5)Istemiyorum.\n");
+        printf("Sectiginiz ekstra malzemeyi tuslayiniz ve enterlayiniz.\n");
+        scanf("%d",&ekstraUrun);
+        switch (ekstraUrun) {
+            case 1:
+                hesap = hesap+5.99;
+                break;
+            case 2:
+                hesap = hesap+3;
+                break;
+            case 3:
+                hesap = hesap+17.99;
+                break;
+            case 4:
+                hesap = hesap+8.99;
+                break;
+            case 5:
+                hesap = hesap;
+                a = a+4;
                 break;
         }
     }
