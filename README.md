@@ -15,5 +15,6 @@ Ders anlatımı, notlar, örnek uygulamalar tamamen bana ait.</p>
 <li class="has-line-data" data-line-start="11" data-line-end="12">Pointer nedir ve nasıl kullanılır.</li>
 <li class="has-line-data" data-line-start="12" data-line-end="13">Matematiksel fonksiyonlar</li>
 </ul>
+<a href="https://www.buymeacoffee.com/creos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <h2 class="code-line" data-line-start=18 data-line-end=20 ><a id="License_18"></a>License</h2>
 <p class="has-line-data" data-line-start="21" data-line-end="22">Creative Commons Zero v1.0 Universal</p>
